@@ -1,0 +1,9 @@
+# Git Ignore
+assets/img/posts/
+assets/img/posts/*
+
+# Sistema y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
